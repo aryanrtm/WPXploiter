@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Author: 4WSec
+# Team: Anon Cyber Team
+# Date: 24/03/2019
+# © Copyright ~ 4WSec
+
 # color
 PP='\033[95m' # purple
 CY='\033[96m' # cyan
